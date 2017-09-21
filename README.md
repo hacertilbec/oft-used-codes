@@ -1,2 +1,2 @@
 # oft-used-codes
-Frequently used codes of mine for different tasks. e.g Classification
+Frequently used codes of mine for different tasks. e.g text processing, classification, neural networks
